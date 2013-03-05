@@ -2,5 +2,4 @@ commit test.
 second commit.
 master branch add.
 3rd commit.
-不正な修正１
 不正な修正２

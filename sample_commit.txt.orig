@@ -1,0 +1,10 @@
+commit test.
+second commit.
+master branch add.
+<<<<<<< HEAD
+3rd commit.
+不正な修正１
+不正な修正２
+=======
+3rd commit.
+>>>>>>> parent of 812c7c9... 不正な修正１
