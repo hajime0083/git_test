@@ -1,9 +1,0 @@
-commit test.
-second commit.
-master branch add.
-3rd commit.
-<<<<<<< HEAD
-不正な修正２
-=======
-不正な修正１
->>>>>>> parent of 38b5de3... 不正な修正２
