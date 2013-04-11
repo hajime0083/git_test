@@ -5,9 +5,6 @@ master branch add.
 branch_test.
 branch commit.
 
-!!confrict!!
-committest
-
 marge
 
 tesutest20130411
